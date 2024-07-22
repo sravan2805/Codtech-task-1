@@ -25,7 +25,7 @@ I am a dedicated and passionate developer with a strong interest in web developm
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Others:** Git, GitHub, RESTful APIs
-
+- 
 ## **Contact Me**
 Feel free to reach out to me via email at sravankonduru05@gmail.com or connect with me on linkedin
 
