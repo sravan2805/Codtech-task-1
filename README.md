@@ -1,5 +1,12 @@
 # Codtech Task 1: Portfolio Website
 
+**Name:** Konduru Sravan
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT8FSWD1260
+**DOMAIN:** Full Stack Development
+**DURATION:** june to August 2024
+**MENTOR:** N.Santhosh Kumar
+
 ## **Overview of the project**
 This project is a personal portfolio website created as part of the Codtech Task 1. The portfolio showcases my skills, education, projects, and provides a way to contact me and give feedback.
 
